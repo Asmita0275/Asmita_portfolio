@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 portfolio-website
 ├── src
 │   ├── css
@@ -14,3 +15,6 @@ portfolio-website
 ├── assets
 │   └── fonts
 └── README.md
+=======
+This file is intentionally left blank.
+>>>>>>> 96c149d37dea715bdf6bcc1535e3db9050dc6450
